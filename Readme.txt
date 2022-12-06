@@ -1,4 +1,4 @@
-Thank you for using our method. 
+Thank you for using our method. Please cite our paper (Tian, Cook, Johnson 2022).
  
 The transforms are generated from Step 1. Before running Step 1, please downsample your data to 15um or 45um depending on your needs.
 Step 1 with 15um data usually takes ~10 hours and has better performance(recommended)
@@ -20,3 +20,4 @@ Input
 $bash Step3_path.bash
 in the bash. 
 
+Plus: Authors suggest implementing the workflow on windows/unix system. If you have any questions, please contact the corresponding author. 
