@@ -1,4 +1,4 @@
-Thank you for using our method. Please cite our paper (Tian, Cook, Johnson 2022).
+Thank you for using our method. Please cite our paper (Johnson, Tian 2023) from PNAS and (Tian, Cook, Johnson 2022) from Frontiers in Neuroscience.
  
 The transforms are generated from Step 1. Before running Step 1, please downsample your data to 15um or 45um depending on your needs.
 Step 1 with 15um data usually takes ~10 hours and has better performance(recommended)
